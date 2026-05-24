@@ -1,0 +1,4 @@
+interface:
+  display_name: "QFramework Godot Business"
+  short_description: "Implement Godot QFramework business logic"
+  default_prompt: "Use $qframework-godot-business to implement a new QFramework business workflow in this Godot project."

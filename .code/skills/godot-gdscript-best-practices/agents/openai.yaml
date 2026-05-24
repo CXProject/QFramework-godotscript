@@ -1,0 +1,4 @@
+interface:
+  display_name: "Godot GDScript Best Practices"
+  short_description: "Apply maintainable Godot GDScript project practices"
+  default_prompt: "Use $godot-gdscript-best-practices to review or plan a Godot GDScript implementation with maintainability, layering, performance, and data-driven design in mind."
